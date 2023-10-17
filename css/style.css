@@ -273,6 +273,7 @@ section {
   text-align: center;
   width: min(70ch, 100%);
   margin-inline: auto;
+  margin-top: 3rem;
 }
 .section-head-center h1{
   font-size: clamp(1.2rem, 0.9vw + 2rem, 4rem);
